@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-26 02:47 HKT",
-  "hsi_close": 22219.65,
-  "sma50": 23958.34,
-  "sma200": 25070.67,
-  "dist_days_25d": 9,
+  "updated_at": "2026-11-27 02:35 HKT",
+  "hsi_close": 21966.01,
+  "sma50": 23899.3,
+  "sma200": 25046.62,
+  "dist_days_25d": 10,
   "status": "大市調整中 (Market in Correction)",
   "signal": "RED"
 }
